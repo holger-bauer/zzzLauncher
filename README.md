@@ -167,7 +167,5 @@ We kindly request that you consider supporting the ongoing development of mLaunc
         <img src='https://img.shields.io/badge/Maintained-yes-44cc11?style=flat-square' alt="Maintained">
         <a href='https://github.com/HeCodes2Much/mLauncher/releases/latest'><img src='https://img.shields.io/github/downloads/HeCodes2Much/mLauncher/total?color=44cc11&style=flat-square' alt="releases"></a>
         <br>
-        <a href='https://f-droid.org/packages/app.mlauncher'><img alt="F-Droid (including pre-releases)" src="https://img.shields.io/f-droid/v/app.mlauncher?include_prereleases&style=flat-square"></a>
-        <a href='https://github.com/HeCodes2Much/mLauncher/releases/latest'><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/HeCodes2Much/mLauncher?style=flat-square"></a>
     </p>
 </div>
